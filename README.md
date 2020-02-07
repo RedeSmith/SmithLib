@@ -17,4 +17,4 @@ O que não deve ser feito:
   - Pedir Atualizações
   - Pedir itens novos.
 
-SmithAPI criado por.  Jessé Ávila é HugoBoss12.
+SmithAPI criado por.  Jessé Ávila e HugoBoss12.
