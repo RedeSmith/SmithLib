@@ -1,6 +1,6 @@
 # SmithLib
 
-Sistema de API para criar nossos servidores mais rápido.
+API para criar nossos servidores mais rápido.
 
   - Toda semana tem novidades.
   - Usamos Maven.
